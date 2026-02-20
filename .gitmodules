@@ -13,3 +13,9 @@
 [submodule "uclip"]
 	path = uclip
 	url = https://github.com/TeamUlysses/uclip
+[submodule "wire"]
+	path = wire
+	url = https://github.com/wiremod/wire
+[submodule "wire-extras"]
+	path = wire-extras
+	url = https://github.com/wiremod/wire-extras
