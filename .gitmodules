@@ -1,0 +1,15 @@
+[submodule "hook-library"]
+	path = hook-library
+	url = https://github.com/Srlion/Hook-Library
+[submodule "ulib"]
+	path = ulib
+	url = https://github.com/TeamUlysses/ulib
+[submodule "ulx"]
+	path = ulx
+	url = https://github.com/snepbox/ulx
+[submodule "utime"]
+	path = utime
+	url = https://github.com/TeamUlysses/utime
+[submodule "uclip"]
+	path = uclip
+	url = https://github.com/TeamUlysses/uclip
